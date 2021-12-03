@@ -11773,6 +11773,7 @@ btn2 {
 @media only screen and (max-width: 1500px) {
 
 iframe {
- width: 410px;}
+ width: 450px;
+ height: 450px;}
  }
 
